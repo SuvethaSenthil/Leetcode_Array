@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 public class CheckN_DoubleExist_1346 {
     public static void main(String[] args) {
         int[] arr = {10,2,5,3};
